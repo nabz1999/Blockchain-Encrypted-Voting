@@ -1,1 +1,1 @@
-# Blockchain_Voting
+# Blockchain Encrypted Voting System
