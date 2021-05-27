@@ -1,1 +1,3 @@
-# Blockchain Encrypted Voting System
+# BLOVOS 
+A BLOckchain VOting System
+
