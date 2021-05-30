@@ -15,19 +15,8 @@
   <a href="#" target="_blank"><img alt="Code" src="https://img.shields.io/badge/npm-red?style=flat-square&logo=Gnache&logoColor=white"></a>
   <a href="#" target="_blank"><img alt="Code" src="https://img.shields.io/badge/Blockchain-blue?style=flat-square&logo=Gnache&logoColor=white"></a>
 
-
-
-
-  
-
-
-
-
-
 ## About
 A Decentralized Voting App on the Ethereum Network
-
-
 
 ## Dependencies
 - NPM: https://nodejs.org
@@ -35,3 +24,9 @@ A Decentralized Voting App on the Ethereum Network
 - Ganache: http://truffleframework.com/ganache/
 - Metamask: https://metamask.io/
 
+## Screenshots
+  <img src="https://github.com/nabz1999/Blockchain-Encrypted-Voting/blob/main/BLOVOS-img/BlovosHome.PNG">
+  <img src="https://github.com/nabz1999/Blockchain-Encrypted-Voting/blob/main/BLOVOS-img/BlovosVote.PNG">
+  <img src="https://github.com/nabz1999/Blockchain-Encrypted-Voting/blob/main/BLOVOS-img/VoteFees.PNG">
+  <img src="https://github.com/nabz1999/Blockchain-Encrypted-Voting/blob/main/BLOVOS-img/AfterVoteScreen.PNG">
+  
